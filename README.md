@@ -1,7 +1,9 @@
 Built using tutorial for redux from Tyler Mcginnis course
 
-Just to see the store activity:
+1. Just to see basics of store (JS) code only run:
 
-run `node app.js`
+   run `node app.js`
 
-To see store and UI working, run the index.html. It only depends on index.js
+2. To see the store from step 1 tied to UI, go to UI and open index.html in browser (no webserver is needed). The index.html only depends on index.js and nothing else.
+
+3) Step 3 takes the code directory from step 2, deletes our store implementation and uses the Redux API.
