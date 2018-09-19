@@ -1,4 +1,5 @@
-Built using tutorial for redux from Tyler Mcginnis course
+Built using tutorial for redux from Tyler Mcginnis course. Pretty awesome course if you want to learn Redux:
+https://learn.tylermcginnis.com/
 
 1. Just to see basics of store (JS) code only run:
 
